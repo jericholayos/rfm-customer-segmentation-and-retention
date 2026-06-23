@@ -2,7 +2,7 @@
 
 This repository contains the version 2 of my end-to-end data analytics project focused on Customer RFM (Recency, Frequency, Monetary) Segmentation and Retention Intelligence. The goal of this project is to analyze customer purchasing behavior, identify high-value shoppers, and highlight revenue at risk due to customer churn.
 
-Using PostgreSQL and pgAdmin, I built a structured retail database and wrote advanced SQL queries to calculate RFM scores. These scores group customers into five distinct categories: Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost. I then connected the database to Power BI to create interactive dashboards that visualize these insights for clear business decision-making.
+Using PostgreSQL and pgAdmin, I built a structured retail database and wrote SQL queries to calculate RFM scores. These scores group customers into five distinct categories: Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost. I then connected the database to Power BI to create interactive dashboards that visualize these insights for clear business decision-making.
 
 ## Dashboard Preview
 <img width="1920" height="1080" alt="Segment Overview " src="https://github.com/user-attachments/assets/719b8dc4-2417-49ee-9474-025142be5516" />
