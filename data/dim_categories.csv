@@ -1,0 +1,19 @@
+category_id,category_name,parent_category
+1,Electronics,
+2,Computers,Electronics
+3,Mobile Phones,Electronics
+4,Accessories,Electronics
+5,Clothing,
+6,Men's Apparel,Clothing
+7,Women's Apparel,Clothing
+8,Kids' Apparel,Clothing
+9,Home & Garden,
+10,Furniture,Home & Garden
+11,Kitchen,Home & Garden
+12,Sports,
+13,Outdoor,Sports
+14,Fitness,Sports
+15,Toys & Games,
+16,Beauty,
+17,Books & Media,
+18,Food & Beverage,

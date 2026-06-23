@@ -1,0 +1,51 @@
+store_id,store_name,region_id,city,store_type,opened_date,sq_footage,is_active
+1,Atlanta Outlet,2,Atlanta,Mall,2020-05-21,8514,True
+2,Orlando Flagship,2,Orlando,Express,2011-10-14,15025,False
+3,Miami Mall,2,Miami,Express,2015-04-15,20926,False
+4,Albuquerque Online Hub,4,Albuquerque,Mall,2014-07-24,15919,True
+5,Boston Online Hub,1,Boston,Outlet,2021-09-29,10305,True
+6,Toronto Flagship,6,Toronto,Online Hub,2020-11-27,4369,True
+7,Ottawa Outlet,6,Ottawa,Flagship,2023-12-04,16254,True
+8,London Express,7,London,Outlet,2012-08-26,21799,True
+9,Ottawa Mall,6,Ottawa,Flagship,2017-05-05,2701,True
+10,Los Angeles Mall,5,Los Angeles,Flagship,2011-11-08,13655,True
+11,Vancouver Outlet,6,Vancouver,Outlet,2014-06-30,8065,True
+12,Orlando Mall,2,Orlando,Express,2018-07-05,9221,True
+13,Birmingham Express,7,Birmingham,Mall,2011-10-22,23633,True
+14,Boston Flagship,1,Boston,Outlet,2014-03-21,14345,True
+15,Albuquerque Outlet,4,Albuquerque,Mall,2020-07-13,22677,True
+16,Munich Outlet,8,Munich,Mall,2019-01-24,9281,True
+17,Brisbane Express,9,Brisbane,Online Hub,2014-07-10,20321,True
+18,Houston Express,4,Houston,Online Hub,2019-09-07,4178,True
+19,Miami Mall,2,Miami,Online Hub,2022-10-07,20743,True
+20,Bristol Online Hub,7,Bristol,Express,2011-07-12,9438,True
+21,New York Express,1,New York,Outlet,2022-09-19,22203,True
+22,Portland Mall,5,Portland,Online Hub,2021-03-17,1306,True
+23,Denver Mall,5,Denver,Express,2016-03-13,4686,True
+24,Denver Express,5,Denver,Mall,2013-08-11,6208,True
+25,Columbus Express,3,Columbus,Flagship,2024-11-01,20826,True
+26,New York Outlet,1,New York,Outlet,2016-02-24,9046,True
+27,Atlanta Online Hub,2,Atlanta,Flagship,2012-09-25,18655,True
+28,Indianapolis Express,3,Indianapolis,Mall,2012-10-15,9885,True
+29,Manchester Express,7,Manchester,Mall,2023-04-20,24561,True
+30,Calgary Express,6,Calgary,Online Hub,2019-11-20,5165,True
+31,Charlotte Flagship,2,Charlotte,Express,2022-09-25,19350,True
+32,Dallas Flagship,4,Dallas,Flagship,2021-08-26,8701,True
+33,Philadelphia Flagship,1,Philadelphia,Express,2018-12-10,8998,True
+34,Munich Express,8,Munich,Mall,2025-01-21,24902,True
+35,Munich Online Hub,8,Munich,Online Hub,2016-09-25,7439,True
+36,Birmingham Online Hub,7,Birmingham,Online Hub,2019-03-01,16503,True
+37,New York Flagship,1,New York,Online Hub,2023-01-17,12318,True
+38,Miami Mall,2,Miami,Mall,2020-02-04,18773,True
+39,Manchester Outlet,7,Manchester,Online Hub,2023-07-01,9385,True
+40,Tampa Express,2,Tampa,Flagship,2019-07-09,2857,True
+41,Sydney Flagship,9,Sydney,Mall,2021-04-19,6649,True
+42,Munich Online Hub,8,Munich,Flagship,2012-01-29,6594,True
+43,Birmingham Online Hub,7,Birmingham,Outlet,2014-08-17,15061,True
+44,Perth Mall,9,Perth,Mall,2015-06-27,10922,True
+45,Albany Express,1,Albany,Flagship,2012-07-20,11476,True
+46,Cologne Express,8,Cologne,Mall,2014-09-11,3063,True
+47,Miami Flagship,2,Miami,Express,2012-11-06,3426,True
+48,Las Vegas Flagship,4,Las Vegas,Express,2015-04-30,9267,True
+49,Albany Flagship,1,Albany,Online Hub,2020-05-02,22740,True
+50,Brisbane Outlet,9,Brisbane,Mall,2016-07-17,23145,True

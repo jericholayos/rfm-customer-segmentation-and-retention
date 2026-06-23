@@ -1,0 +1,301 @@
+employee_id,first_name,last_name,email,department,job_title,store_id,region_id,hire_date,salary,is_active,manager_id
+1,Johnny,Bean,traceynguyen@washington.biz,HR,Recruiter,3,1,8/21/2019,140537.13,TRUE,53
+2,Jose,Parks,ginasanchez@nixon.com,Logistics,Supply Chain Manager,,8,4/18/2016,130385.71,TRUE,72
+3,Emily,Shannon,carlamorales@lowe-turner.com,HR,Training Specialist,,5,8/16/2021,95760.4,FALSE,
+4,Jeremiah,Perez,danielperry@bailey.com,Finance,Controller,2,8,3/12/2026,122718.34,TRUE,
+5,Alexis,Kramer,danielleblair@moore.com,Sales,Sales Associate,5,6,4/4/2021,80261.36,TRUE,
+6,Alexis,Johnson,swilkinson@henry-ball.info,Operations,Shift Supervisor,,1,9/23/2017,34388.23,FALSE,158
+7,David,Johnson,edean@martin-marshall.org,Sales,Senior Sales Rep,,8,4/6/2021,65860.64,TRUE,294
+8,Crystal,Allen,gibsontimothy@peters-le.info,Operations,Operations Manager,7,9,7/18/2020,32427.23,TRUE,181
+9,Heather,Patton,csullivan@stone.info,Marketing,Marketing Analyst,12,5,3/7/2020,79519.89,TRUE,55
+10,Erika,Hood,charles05@wheeler.com,Operations,Inventory Clerk,7,5,2/8/2021,81114.98,TRUE,43
+11,Lori,Avila,rodriguezkristin@snow-ford.biz,Operations,Store Associate,15,1,10/21/2021,144183.98,TRUE,222
+12,Kelly,Greer,troydickson@fletcher.com,Logistics,Supply Chain Manager,,5,8/18/2020,125461.39,TRUE,247
+13,Laura,Vega,flin@wade-davis.biz,IT,IT Manager,34,9,9/2/2017,65889.79,TRUE,124
+14,Gregory,Torres,hannadustin@clark.net,HR,HR Manager,,4,8/2/2024,33099.34,TRUE,
+15,Larry,Cooper,cassandrahill@vargas.com,Customer Service,Quality Analyst,44,2,3/10/2022,144485.11,TRUE,206
+16,Robert,Garner,cookshane@smith.biz,Operations,Operations Manager,,6,12/6/2015,71832.54,TRUE,75
+17,Ronald,Cooper,dixonkyle@salinas.biz,HR,HR Manager,45,9,10/9/2022,59807.18,TRUE,286
+18,Martha,Shaffer,christophersimmons@roberts-mcdonald.biz,Customer Service,Quality Analyst,16,9,5/15/2020,131404.62,TRUE,41
+19,Connie,Peterson,lucaskrista@gilbert-hughes.net,Operations,Inventory Clerk,33,8,8/6/2022,86254.34,TRUE,43
+20,Eric,Smith,patrick25@owens-hayes.com,Sales,Sales Manager,,7,11/9/2017,111660.45,TRUE,
+21,Katherine,Shaw,terri57@lawrence.com,Logistics,Driver,48,5,3/17/2021,43337.51,TRUE,264
+22,Ashley,Rios,marissamiller@clark-wagner.biz,Sales,Senior Sales Rep,,1,6/6/2018,61817.59,TRUE,
+23,Jeffrey,Davis,lindsey27@henry.com,Marketing,Marketing Analyst,,5,1/25/2019,60176.79,TRUE,93
+24,Rose,Baxter,dthornton@barnes.com,Logistics,Supply Chain Manager,7,5,11/3/2021,102096.59,TRUE,16
+25,Melissa,Jacobson,robertssarah@briggs-wright.com,Marketing,Content Specialist,5,2,2/26/2025,35429.61,TRUE,155
+26,Megan,Bell,danieltate@gibbs.com,IT,Data Analyst,15,2,11/4/2017,123825.21,TRUE,34
+27,Thomas,Wilson,christopherperez@gonzalez.info,Customer Service,CS Manager,6,8,2/5/2015,72619.05,TRUE,120
+28,Thomas,Jones,jeffreyguerrero@green.info,Sales,Senior Sales Rep,46,8,12/10/2019,56081.43,TRUE,247
+29,Ashley,Mercado,omontes@ross.com,Sales,Sales Associate,1,2,7/18/2014,106639.76,TRUE,212
+30,Michael,Hernandez,vcook@trevino.info,Operations,Store Associate,36,3,11/20/2018,135885.33,TRUE,134
+31,Brian,Valdez,ashley16@henderson.com,Sales,Sales Associate,14,9,2/18/2016,75083.29,TRUE,219
+32,Elizabeth,Hartman,martinkelly@hernandez-mccoy.org,Logistics,Warehouse Associate,,6,11/6/2020,128634.5,TRUE,175
+33,Sheryl,Rose,rebekah04@watson.com,Sales,Sales Manager,6,2,9/4/2022,125795.68,TRUE,
+34,Joseph,Clark,ashley53@sanchez-campbell.com,Sales,Sales Manager,6,6,9/16/2021,116338.68,TRUE,293
+35,David,Lopez,ryan88@freeman-hopkins.info,IT,Data Analyst,,3,12/27/2024,86456.85,TRUE,
+36,Daniel,Schaefer,latoyahamilton@gray.com,HR,Training Specialist,39,7,3/24/2022,79136.74,TRUE,258
+37,Briana,Phillips,amyclay@hudson.net,IT,Data Analyst,,8,3/25/2015,71542.94,TRUE,
+38,Lauren,Byrd,johnsonashley@morales.biz,HR,Training Specialist,49,1,10/14/2018,75707.27,TRUE,257
+39,Nancy,Morgan,michael51@johnson-jones.info,Logistics,Warehouse Associate,49,8,3/24/2024,70138.58,TRUE,
+40,Lindsey,Gilbert,chelsea38@lee.net,Operations,Inventory Clerk,7,2,5/22/2026,65912.35,TRUE,196
+41,Patricia,Bell,michael71@cooper-turner.info,Sales,Sales Manager,2,2,11/14/2019,96130.02,TRUE,182
+42,Beth,Burns,davisbeth@burke.com,Customer Service,CSR,26,8,1/9/2015,115395.91,TRUE,24
+43,Rebecca,Hardin,lweaver@holt.info,HR,HR Manager,6,5,6/1/2020,134393.47,TRUE,
+44,Melanie,Young,prestonpacheco@rodriguez.org,HR,Recruiter,32,1,3/17/2020,91893.93,FALSE,23
+45,Darrell,Thornton,ejordan@garcia.info,Marketing,Marketing Manager,15,8,10/13/2022,107606.23,TRUE,91
+46,Linda,Stone,hartdonald@alexander.com,Logistics,Supply Chain Manager,29,1,9/18/2015,65144.5,TRUE,289
+47,Amy,Murphy,brittany61@elliott.org,Marketing,Marketing Manager,,1,4/5/2020,82317.22,TRUE,225
+48,Janet,Kennedy,abigail85@stephens.com,Sales,Sales Associate,5,5,5/21/2017,56855.84,TRUE,116
+49,Patrick,Fisher,chrishenry@lutz-harris.com,Customer Service,Quality Analyst,7,1,9/7/2016,67356.45,TRUE,43
+50,Timothy,Gonzalez,tina56@james.com,IT,Support Technician,,8,8/6/2015,80863.41,FALSE,235
+51,Tiffany,Craig,john33@butler.com,IT,Support Technician,35,1,3/16/2020,32615.21,TRUE,129
+52,Curtis,Harris,dfoster@morris.com,Operations,Operations Manager,24,8,6/19/2016,81358.5,TRUE,248
+53,Alex,Haynes,csmith@miranda.net,Customer Service,CSR,32,3,6/1/2015,109750.65,TRUE,
+54,Amy,Allen,richardsmith@williams.com,Operations,Shift Supervisor,,2,3/30/2021,61260.77,FALSE,78
+55,Alexander,Combs,milesmatthew@zamora.com,Marketing,Marketing Manager,,3,5/3/2019,116221.38,TRUE,101
+56,Samuel,Cole,fpowell@duncan-cook.com,Logistics,Driver,18,1,8/21/2020,133169.72,TRUE,
+57,Catherine,Peterson,stephengates@anderson.info,Sales,Sales Manager,18,5,9/8/2017,109752.34,TRUE,274
+58,Isabella,Velasquez,haleymedina@jackson-dawson.com,Sales,Sales Associate,,3,6/27/2019,70673.35,TRUE,
+59,Julia,Smith,alec82@fletcher-jackson.biz,Finance,Controller,,1,1/20/2019,129145.72,TRUE,
+60,Steven,Mata,mark58@elliott.com,Customer Service,CSR,26,3,10/5/2021,113098.24,TRUE,124
+61,James,Walton,seanbird@cross.org,Customer Service,CSR,,6,8/8/2018,136759.82,TRUE,55
+62,Shawn,Moss,xfranco@oneal.com,IT,Support Technician,25,2,11/21/2022,81222.01,TRUE,208
+63,Christopher,Cisneros,veronicamckee@davis.com,IT,Data Analyst,48,4,5/3/2020,75590.92,TRUE,
+64,Lisa,Peterson,wcameron@gomez.net,IT,Developer,25,9,8/4/2016,87163.96,TRUE,76
+65,Karen,May,travisparsons@rodgers.com,Operations,Operations Manager,24,1,6/1/2022,122973.16,TRUE,199
+66,Christine,Coffey,davisdustin@king.org,HR,HR Coordinator,36,8,12/29/2021,124590.01,TRUE,287
+67,Tammy,Patel,jenniferbailey@white.org,Customer Service,CSR,35,4,4/28/2022,103867.92,TRUE,
+68,Joann,Wilson,laura02@hernandez-snyder.com,Sales,Sales Associate,28,7,3/28/2015,68455.3,TRUE,124
+69,Ryan,Duarte,gordonjessica@anderson-shepard.biz,Finance,Accountant,18,7,5/17/2023,39003.47,TRUE,213
+70,Sean,Perkins,pchristensen@tran.net,Sales,Account Executive,25,5,11/5/2025,95871.27,TRUE,191
+71,Nancy,Gilbert,ibailey@stewart-daniels.com,Sales,Sales Manager,,1,6/6/2026,103806.13,TRUE,125
+72,Kimberly,Steele,obonilla@escobar.net,Sales,Sales Manager,9,8,5/1/2026,105998.47,TRUE,
+73,Whitney,Henderson,bridgethowell@long.com,Customer Service,Quality Analyst,,2,5/16/2024,144749.98,FALSE,25
+74,Vanessa,Shepard,delacruzspencer@riggs.com,IT,Support Technician,8,9,1/5/2017,136819.95,TRUE,153
+75,Paul,Carter,jenniferfernandez@howard.com,Customer Service,Team Lead,33,1,3/26/2015,93239.14,TRUE,196
+76,Brenda,Scott,nguyenjack@mcmillan.biz,Operations,Shift Supervisor,1,8,10/18/2020,50509,TRUE,
+77,James,Grant,powerstammy@johnson.com,IT,Developer,24,2,3/8/2025,68115.12,TRUE,
+78,April,Buchanan,thomasgarcia@castro-hayden.info,Finance,Finance Manager,,8,9/11/2020,41110.14,TRUE,243
+79,Hector,Middleton,christophercole@petty.com,IT,Support Technician,8,4,8/24/2020,143122.61,TRUE,272
+80,Mark,Walker,contreraskayla@miller.info,HR,HR Coordinator,23,2,6/29/2025,124854.16,TRUE,
+81,Brandon,Barrett,jenniferfarrell@campbell-gutierrez.com,Sales,Account Executive,,1,12/5/2016,142461.46,TRUE,170
+82,Robert,Landry,erik05@sanchez.com,Logistics,Logistics Coordinator,,3,2/4/2024,85428.88,TRUE,
+83,Justin,Johnson,moniqueweaver@clark.info,Logistics,Supply Chain Manager,33,8,7/5/2020,126622.24,TRUE,78
+84,Brittany,Hubbard,andersonkim@morales.com,IT,Developer,39,1,10/3/2018,74428.55,FALSE,211
+85,Billy,Jackson,evan03@peterson.net,Sales,Account Executive,,5,12/21/2023,125726.49,TRUE,106
+86,Christopher,Peterson,powellkathryn@sandoval-wilson.com,HR,HR Coordinator,,6,9/29/2025,92477.86,TRUE,221
+87,Joshua,Barnett,gonzalezwilliam@hutchinson.com,Logistics,Supply Chain Manager,28,5,5/5/2022,55454.54,TRUE,100
+88,Theresa,Miller,roberta84@thomas.com,Marketing,Marketing Manager,21,5,4/6/2020,74130.09,TRUE,189
+89,Craig,Callahan,stephanie56@baker.com,Sales,Sales Manager,19,7,3/2/2025,111240.16,TRUE,56
+90,Molly,Leach,melissa19@clark.com,Customer Service,Quality Analyst,50,4,3/25/2023,59103.44,TRUE,
+91,Kirk,Lopez,richardkelley@thomas.net,Finance,Accountant,,4,11/13/2018,59196.4,TRUE,123
+92,Megan,Hardin,ashley85@brown.info,Marketing,Campaign Lead,,3,3/24/2021,68656.73,TRUE,79
+93,David,Reynolds,michelegould@ruiz.com,Customer Service,CSR,,1,1/24/2020,119937.97,TRUE,223
+94,Thomas,Fitzgerald,michaelward@hunter.org,Logistics,Driver,30,1,1/31/2021,123731.21,TRUE,83
+95,Toni,Roberts,ccarr@villegas.com,Customer Service,CS Manager,33,7,2/13/2017,139617.1,TRUE,183
+96,Margaret,Henderson,johnbautista@berry.info,Finance,Controller,,1,3/23/2021,127274.28,TRUE,76
+97,Mark,Page,james91@curry-west.net,Finance,Financial Analyst,3,8,7/31/2021,35338.31,TRUE,278
+98,Rachel,Lowery,aorozco@bishop.com,Operations,Operations Manager,4,8,8/27/2025,72898.9,TRUE,71
+99,David,Weaver,agarcia@king.biz,Marketing,Marketing Analyst,43,7,12/19/2021,126862.98,TRUE,90
+100,Lisa,Harris,delacruzdennis@becker.com,Marketing,Campaign Lead,37,7,3/24/2021,33273.88,TRUE,205
+101,Brian,Mills,stevensrebecca@fox.biz,Marketing,Content Specialist,4,5,10/28/2017,114141.07,TRUE,
+102,Heather,Mercer,donaldschneider@nunez.com,HR,Training Specialist,2,7,7/5/2015,93690.27,FALSE,69
+103,Robert,Robinson,wparker@baker.com,Operations,Operations Manager,,8,11/2/2017,144254.64,TRUE,22
+104,Sarah,Smith,brian15@harris.org,Sales,Senior Sales Rep,,1,6/2/2020,101811.57,TRUE,133
+105,Hannah,Cisneros,kimberlystone@farmer.org,HR,Training Specialist,3,5,6/10/2017,133404.05,TRUE,
+106,Stacy,Lewis,dho@campbell-diaz.com,Logistics,Supply Chain Manager,45,8,3/24/2026,135506.43,TRUE,94
+107,Christine,Ross,kelsey73@ford.org,Marketing,Content Specialist,,9,1/5/2022,109714.95,TRUE,213
+108,Stephanie,Malone,samuel21@thompson.biz,HR,HR Coordinator,41,8,12/3/2020,103801.79,TRUE,272
+109,Matthew,Jones,jenkinsbrian@burke.com,Customer Service,CSR,14,8,1/5/2026,91216.29,TRUE,172
+110,Jake,Hill,calvinsmith@reyes.org,Finance,Controller,,7,2/15/2019,115049.67,TRUE,12
+111,Christopher,Berry,fnicholson@summers-watkins.biz,HR,HR Coordinator,21,8,8/15/2021,93077.9,TRUE,226
+112,James,Thomas,osbornlisa@rivera.biz,Finance,Accountant,,3,7/8/2014,141957.17,TRUE,174
+113,Stacy,Clayton,joeedwards@white.com,Logistics,Logistics Coordinator,,5,8/11/2017,141099,TRUE,
+114,Patrick,Baker,greencory@carroll.com,Marketing,Campaign Lead,11,8,8/5/2016,57541.59,TRUE,245
+115,Russell,Rogers,hunterdaniel@lucas-walker.biz,Logistics,Driver,,9,12/1/2025,66906.59,FALSE,267
+116,Nicholas,Turner,carlsonlisa@sanford-clark.com,HR,Training Specialist,,1,11/24/2022,118329.01,TRUE,209
+117,Kelly,Gould,katherinedaniels@blevins.com,Logistics,Logistics Coordinator,,8,12/21/2020,89742.77,TRUE,65
+118,Lindsey,Goodman,handerson@keith.com,IT,IT Manager,20,3,9/1/2021,61725.98,TRUE,233
+119,Mark,Davis,woodchristie@herrera.com,Operations,Shift Supervisor,4,8,5/5/2024,50307.94,TRUE,139
+120,Kyle,Velasquez,anna59@petersen.com,Sales,Account Executive,7,6,8/27/2024,143763.4,TRUE,84
+121,Cynthia,Buck,veronica16@kim.com,Customer Service,Team Lead,43,9,2/24/2020,91394.42,TRUE,104
+122,Karen,Evans,jenningslance@thompson-hernandez.info,Logistics,Logistics Coordinator,,5,4/25/2015,79822.23,TRUE,289
+123,Michael,Jones,kimberlyduran@singh.info,Logistics,Driver,4,4,12/1/2024,72725.46,TRUE,284
+124,Lauren,Andrews,katrina55@hernandez.biz,Sales,Sales Manager,,2,6/3/2018,111781.77,TRUE,211
+125,Jeffrey,Fields,whitejennifer@mccall.org,Operations,Inventory Clerk,,6,9/13/2023,32459.58,TRUE,
+126,Erin,Young,william41@norman-stewart.biz,Marketing,Content Specialist,27,5,5/26/2026,128654.8,TRUE,
+127,Brenda,Weiss,fjones@lynch.com,Logistics,Warehouse Associate,,1,3/11/2020,96022.02,TRUE,
+128,Kelli,Scott,npope@johnson.com,Marketing,Campaign Lead,43,6,3/12/2016,66906.34,TRUE,128
+129,Jason,Caldwell,jcantrell@johnson.com,Sales,Sales Associate,,9,4/21/2024,130229.54,TRUE,
+130,Teresa,Hayes,richard86@levine.net,Customer Service,CS Manager,42,3,3/1/2020,122896.57,FALSE,93
+131,Jason,Suarez,dvasquez@boyer.info,Operations,Operations Manager,36,9,8/19/2016,137534.72,TRUE,102
+132,Jerry,Jimenez,sandersjessica@vasquez.com,Sales,Account Executive,13,3,11/26/2023,44317.8,TRUE,205
+133,Kristine,Edwards,hudsontaylor@greer.info,Marketing,Marketing Analyst,4,9,7/16/2020,108699.38,TRUE,61
+134,Kristen,Smith,gregory79@garcia-king.com,Customer Service,CSR,,5,1/27/2026,32105.02,TRUE,
+135,Albert,Marquez,sandrabrown@bennett.com,Sales,Account Executive,,3,3/16/2016,142598.26,TRUE,132
+136,David,Ross,sherri27@bates-smith.biz,Finance,Finance Manager,42,5,6/6/2026,118194.83,TRUE,
+137,Austin,Turner,rodriguezryan@warren-davis.info,Logistics,Supply Chain Manager,,6,11/22/2018,141966.52,TRUE,135
+138,Christine,Mckenzie,davidnelson@hill.com,Marketing,Marketing Analyst,1,3,1/3/2022,89443.06,TRUE,99
+139,Jennifer,Harris,nelsonedward@farrell.com,Customer Service,CS Manager,41,9,10/27/2023,87770.44,TRUE,96
+140,Zachary,Woods,kimberlymartin@johnson-chavez.com,Sales,Sales Manager,44,6,9/2/2025,131621.23,TRUE,272
+141,Robert,Perez,lauramurphy@cook.org,Operations,Shift Supervisor,,2,12/19/2017,77128.39,TRUE,11
+142,Robert,Garcia,heatherduffy@price.com,Finance,Financial Analyst,32,8,1/5/2020,111654.55,TRUE,117
+143,Robin,Hanson,beverly73@ortiz.com,Finance,Financial Analyst,20,6,5/5/2024,108738.89,TRUE,256
+144,James,Hawkins,palvarez@thomas.net,HR,HR Coordinator,,8,8/6/2019,138569.36,TRUE,202
+145,Daniel,Spencer,castanedajustin@page.com,HR,Training Specialist,,9,7/28/2025,55853.09,TRUE,
+146,Brian,Waters,mgray@turner.org,Sales,Account Executive,43,2,9/23/2023,34461.5,TRUE,150
+147,Stephanie,Carlson,jeffreysuarez@ortiz.com,HR,Recruiter,11,4,5/9/2022,39461.16,TRUE,
+148,Logan,Crawford,smithelizabeth@sanders.biz,Operations,Shift Supervisor,33,6,5/11/2022,140525.94,TRUE,93
+149,Jasmine,Hill,lawrencemccullough@martinez-hudson.com,HR,HR Coordinator,,6,11/24/2021,85061.69,TRUE,
+150,Amanda,Douglas,wilsonerin@holloway.net,HR,Recruiter,,6,8/14/2014,132822.88,TRUE,
+151,Heather,Rodriguez,brookestone@bryant.com,Operations,Shift Supervisor,,5,12/4/2023,63101.32,TRUE,14
+152,Jessica,Gomez,amanda48@hart-lopez.com,Sales,Account Executive,14,2,8/30/2014,138218.83,TRUE,150
+153,Andrea,Smith,nathanmartinez@medina-johnson.org,Finance,Finance Manager,35,5,11/15/2015,128827.75,TRUE,108
+154,Abigail,Anderson,traceynguyen@martinez.biz,Marketing,Content Specialist,5,2,12/2/2024,121738.74,TRUE,78
+155,Michael,Jones,lisacollins@hebert.info,Marketing,Marketing Analyst,17,8,9/1/2024,142138.54,TRUE,238
+156,Kathleen,Lee,nataliecarpenter@brown.com,Customer Service,CSR,24,1,2/16/2022,82166.18,TRUE,11
+157,Melody,Mcconnell,zgomez@smith-michael.com,Logistics,Logistics Coordinator,14,3,6/21/2018,82147.68,TRUE,104
+158,Susan,Brandt,samuelhowe@riley.org,Operations,Inventory Clerk,10,1,9/14/2024,140229.33,TRUE,131
+159,Kristopher,White,perryangela@cole-williams.com,Customer Service,CSR,40,4,6/5/2021,81824.99,TRUE,169
+160,Stacy,Nichols,dmercer@bryant.com,Operations,Shift Supervisor,40,7,9/3/2024,126445.71,TRUE,56
+161,Darrell,Johnson,christopheraguilar@ramirez.biz,HR,HR Manager,,2,10/28/2023,129899.32,TRUE,115
+162,Kim,Wise,connie74@higgins.com,IT,Data Analyst,37,3,1/2/2023,91585.79,TRUE,
+163,Amy,Scott,reyesheather@nelson-clayton.com,Sales,Sales Associate,23,2,12/20/2024,67671.78,TRUE,247
+164,Parker,Fisher,marybrown@cox-hicks.com,HR,Training Specialist,35,8,3/7/2026,140224.81,TRUE,115
+165,Charlene,Thompson,elizabeth73@hayes.org,Finance,Financial Analyst,,8,2/13/2023,96876.91,TRUE,
+166,Joshua,Copeland,andrew82@gray-lopez.biz,Finance,Finance Manager,22,7,7/3/2023,131424.05,TRUE,49
+167,Thomas,Williams,collinkelley@perez.com,Customer Service,Quality Analyst,4,3,6/11/2018,44719.22,FALSE,
+168,Matthew,Hodges,perezangela@morales-townsend.info,Sales,Senior Sales Rep,28,5,12/10/2022,106909.03,TRUE,268
+169,Ryan,Patton,renee70@randall-greene.com,Customer Service,CSR,23,2,5/11/2022,103924.45,TRUE,28
+170,Shannon,Ramirez,rmason@maddox.biz,Logistics,Logistics Coordinator,,1,7/21/2021,69392.35,TRUE,197
+171,Caleb,Little,howellmiguel@perry.com,Finance,Financial Analyst,30,3,12/29/2019,112107.67,TRUE,198
+172,Kendra,Ramos,lisaferguson@james.net,Operations,Shift Supervisor,33,8,2/14/2025,67850.3,FALSE,179
+173,Michael,Greene,tammyjohnson@parker.com,Operations,Operations Manager,14,9,5/4/2019,87595.94,TRUE,
+174,Andrea,Holland,brightroger@hanna.com,IT,Data Analyst,47,2,2/12/2021,67084.36,TRUE,138
+175,Adrienne,Smith,karenchambers@hernandez.org,Marketing,Campaign Lead,21,7,5/5/2024,51866.61,TRUE,143
+176,Janet,Mahoney,dixonjennifer@gregory-tucker.net,Sales,Senior Sales Rep,29,2,10/16/2023,127349,TRUE,212
+177,Teresa,Mcguire,ldonovan@hood.org,IT,Support Technician,4,6,7/17/2014,108151.41,TRUE,
+178,Ian,Quinn,bradleyburgess@cross.com,Marketing,Marketing Analyst,13,2,6/7/2017,105792.43,TRUE,
+179,Ian,Jones,eringardner@mason.biz,Sales,Account Executive,7,5,3/1/2025,63394,TRUE,40
+180,Charlene,Henderson,perezkaren@james.com,Logistics,Driver,44,7,9/4/2021,121970.68,TRUE,28
+181,William,Peterson,williamsdeanna@thompson-young.com,HR,Recruiter,,1,5/18/2016,118863.18,FALSE,
+182,Raymond,French,danielle36@parker.info,IT,IT Manager,45,5,2/7/2026,84142.48,TRUE,203
+183,Joseph,Diaz,donaldsonangie@silva-davis.biz,IT,Data Analyst,47,3,6/14/2020,98438.29,TRUE,43
+184,Ryan,Lee,jonathan01@kennedy.com,Sales,Sales Manager,,9,1/13/2025,68660.13,FALSE,78
+185,Cathy,Davis,fgrimes@martinez.com,Finance,Financial Analyst,,5,12/24/2020,132705.65,TRUE,61
+186,Jay,Phillips,davidlewis@garcia-moreno.com,HR,Training Specialist,27,2,6/16/2025,126659.55,TRUE,237
+187,Marissa,Sanchez,stokessuzanne@williams.net,Finance,Accountant,50,5,9/27/2023,50635.45,TRUE,271
+188,Jeremy,Roberts,nthomas@madden-ramirez.com,Marketing,Campaign Lead,,4,1/12/2020,39052.37,TRUE,58
+189,Leslie,Vasquez,phillipsjason@hernandez-martin.com,IT,Support Technician,4,7,11/19/2015,76982.95,TRUE,
+190,Joshua,Castro,ryan01@mccoy-bailey.biz,Logistics,Driver,,1,10/15/2018,62418.95,TRUE,294
+191,Cheryl,Contreras,rperry@dixon-gibson.org,Customer Service,Quality Analyst,44,4,8/2/2017,43741.73,TRUE,227
+192,Richard,Wise,nathanielchan@cox-robinson.com,Sales,Account Executive,36,8,11/3/2021,62639.39,TRUE,
+193,William,Hobbs,jonathanjones@johnson.net,Operations,Shift Supervisor,33,4,12/6/2021,34079.07,TRUE,265
+194,David,Perkins,oware@bennett.org,HR,Training Specialist,37,9,4/5/2017,89453.79,TRUE,111
+195,Leslie,Smith,keithgarcia@nichols.com,Customer Service,CS Manager,34,7,10/31/2023,92781.73,TRUE,
+196,Jacob,Jones,bryce27@parker-turner.com,HR,Recruiter,15,1,5/23/2022,130616.1,TRUE,226
+197,Frank,Wilson,fraziernicole@wilson.com,Marketing,Marketing Manager,,6,6/14/2014,98716.28,TRUE,
+198,Michael,Johnson,chapmandaniel@hamilton.com,Finance,Financial Analyst,10,2,9/9/2022,39416.91,TRUE,268
+199,Nicholas,Rice,joshua78@greene.info,Marketing,Marketing Manager,,3,8/1/2017,134411.22,TRUE,208
+200,Dawn,Mcdonald,cbrown@coleman.com,HR,HR Coordinator,29,2,10/17/2024,79475.86,TRUE,86
+201,Amy,Sherman,pricewilliam@horn-white.info,Finance,Accountant,37,7,10/4/2019,104171.5,TRUE,115
+202,Brittany,Cortez,uford@burgess-fitzgerald.org,Marketing,Marketing Analyst,33,2,2/15/2022,112135.39,TRUE,12
+203,Elizabeth,Wells,elizabethharmon@mason-chavez.com,Sales,Sales Manager,39,1,5/14/2021,66336.61,TRUE,135
+204,Amanda,Le,sanchezanthony@conley.org,Sales,Sales Manager,35,2,3/26/2019,69132.87,TRUE,131
+205,Derrick,Miller,wkane@johnson.net,Operations,Inventory Clerk,6,2,9/27/2025,102314.24,TRUE,274
+206,Jimmy,Lang,benjamin74@li.com,Sales,Sales Associate,28,1,3/11/2025,104375.61,TRUE,150
+207,Eric,Parker,xlove@smith.com,HR,HR Coordinator,41,7,12/5/2020,130432.82,TRUE,
+208,Ryan,Williams,zcampbell@weaver-vazquez.biz,Customer Service,Team Lead,18,3,8/25/2018,141649.47,TRUE,26
+209,James,Dalton,melissa17@holloway-diaz.org,Sales,Sales Manager,48,6,7/9/2020,94643.95,TRUE,131
+210,John,Porter,campbelljay@ramirez-humphrey.com,Customer Service,Quality Analyst,38,6,11/18/2016,111288.13,TRUE,18
+211,Edward,Rodriguez,robertmurray@parker-rose.info,Finance,Accountant,,6,2/22/2022,39288.51,TRUE,48
+212,Michelle,Andrade,kimberly24@mcconnell-lloyd.org,Customer Service,CS Manager,39,7,12/15/2018,52122.28,TRUE,156
+213,Amanda,Moore,alee@moore.com,Customer Service,Quality Analyst,,2,5/1/2017,100932.42,TRUE,260
+214,Stephanie,Lopez,michael26@brewer.com,Finance,Financial Analyst,5,1,8/9/2023,41350.77,TRUE,207
+215,John,Glover,mmclaughlin@brown.com,Finance,Financial Analyst,,3,7/1/2019,143114.09,TRUE,243
+216,Angela,Miller,njenkins@davis.info,Sales,Sales Manager,44,3,6/5/2017,79758.81,TRUE,185
+217,Charles,Schroeder,leslie40@lambert.com,IT,IT Manager,,5,9/28/2025,60935.68,TRUE,
+218,Steve,Jones,christinefoster@li.biz,Sales,Sales Associate,,6,11/11/2020,85933.55,TRUE,190
+219,Sean,Gray,paulanthony@carpenter.biz,Marketing,Content Specialist,49,6,3/27/2016,143041.81,TRUE,105
+220,Robert,Spence,tamaradavis@fowler-rodriguez.com,Customer Service,CS Manager,,4,5/23/2024,100906.68,TRUE,86
+221,James,Andrews,ajohnson@hernandez.info,IT,Developer,46,4,12/15/2024,48634.42,TRUE,50
+222,Lisa,Smith,martinezheather@miller.com,Finance,Finance Manager,31,7,12/9/2020,68826.25,TRUE,252
+223,Roy,Singleton,diazkathy@nunez.com,Finance,Financial Analyst,1,7,2/10/2024,112168.71,TRUE,167
+224,Christine,Clark,christopherward@fitzgerald.com,Sales,Sales Manager,11,5,7/9/2025,36708.39,TRUE,266
+225,Samantha,Weeks,codyvelez@lowery.com,Logistics,Logistics Coordinator,23,9,11/27/2023,81797.46,TRUE,
+226,Thomas,Bruce,cbrown@ramirez.net,Customer Service,CSR,49,3,12/27/2015,103194.13,TRUE,238
+227,Gregory,Lewis,clarksheryl@greene.net,Finance,Controller,,1,9/6/2023,73492.5,TRUE,70
+228,Laura,Freeman,wyattalexander@franklin-flores.com,Logistics,Logistics Coordinator,46,2,6/17/2014,141831.47,TRUE,11
+229,Katie,Nguyen,zbrown@mcdonald.com,Marketing,Marketing Analyst,9,8,5/26/2021,116440.95,TRUE,154
+230,Mary,Patrick,donna46@price.com,Marketing,Marketing Manager,29,8,7/14/2014,136510.68,TRUE,279
+231,Judith,Allen,robinmeza@cook.com,Logistics,Logistics Coordinator,6,4,6/6/2021,143558.82,TRUE,242
+232,Teresa,Alexander,yrodriguez@davidson.net,Sales,Sales Associate,45,6,2/29/2024,60043.55,TRUE,282
+233,Lucas,Lewis,tiffany30@lewis-powell.net,Marketing,Content Specialist,42,4,9/12/2017,143243.01,TRUE,170
+234,James,Little,wendywatts@hall.com,Customer Service,CS Manager,49,8,6/22/2020,121507.33,TRUE,171
+235,Cameron,Watson,ulewis@jackson.com,Marketing,Content Specialist,25,3,10/10/2022,138144.37,TRUE,106
+236,John,Lowery,erik97@garcia-black.info,HR,Training Specialist,44,5,5/6/2016,122397.97,TRUE,198
+237,Kelly,Miller,samuelsmith@cobb.biz,Marketing,Content Specialist,29,2,1/15/2025,95167.1,TRUE,222
+238,Laura,Lynch,kfarrell@williams.info,Finance,Finance Manager,3,7,10/9/2025,106356.63,TRUE,78
+239,Anthony,Gilmore,allisonwilliams@stevens.com,Operations,Store Associate,38,9,7/5/2019,144992.11,TRUE,95
+240,Melissa,Harrison,edward12@thomas-ramos.com,Customer Service,CS Manager,7,1,6/15/2015,59737.71,TRUE,185
+241,Felicia,Harrington,tarawilson@neal.com,Logistics,Supply Chain Manager,42,7,4/4/2021,135159.46,TRUE,
+242,Jennifer,Daniel,aalvarez@harris.biz,Logistics,Supply Chain Manager,,4,1/23/2020,68058.73,TRUE,299
+243,Richard,Escobar,kelly22@ferguson.com,Sales,Account Executive,34,2,6/19/2021,42369.12,TRUE,145
+244,Gary,Newton,xstokes@watson-garcia.com,Operations,Shift Supervisor,2,4,11/14/2025,120135.12,TRUE,
+245,Catherine,Bell,dcontreras@davila.com,IT,IT Manager,,5,11/18/2021,55664.48,TRUE,
+246,Richard,Gordon,qhill@lee.org,Marketing,Content Specialist,,8,2/4/2022,144274.59,TRUE,287
+247,Jennifer,Sullivan,fstrong@maynard.com,Finance,Accountant,5,9,4/14/2015,38194.85,TRUE,153
+248,Melissa,Walker,ebrown@martinez-harper.biz,Finance,Accountant,31,8,1/7/2020,69227.86,TRUE,134
+249,Jordan,Bailey,paulmiller@edwards.net,Operations,Store Associate,36,1,9/1/2021,39424.86,TRUE,143
+250,Curtis,Rogers,nicole63@jones-cook.com,Customer Service,Team Lead,46,4,6/5/2015,43842.05,TRUE,226
+251,James,Roberts,lindamoody@fisher.com,HR,Training Specialist,,1,11/14/2015,46819.41,TRUE,
+252,Carlos,Underwood,gatesadam@davis-ward.info,Customer Service,CSR,49,1,6/29/2019,66851.46,TRUE,253
+253,Jeffrey,Pena,robin28@murphy-shaw.org,IT,Support Technician,35,6,9/13/2025,101046.76,TRUE,13
+254,Michelle,Mclaughlin,susan20@davies-bush.com,HR,HR Coordinator,9,8,4/11/2023,50923.49,TRUE,291
+255,Sarah,Hernandez,reyesjeffrey@johnson.org,Marketing,Marketing Analyst,15,2,5/24/2017,137563.03,FALSE,36
+256,Richard,Brown,kathryncampbell@burns-johnson.com,Customer Service,Team Lead,5,4,5/20/2018,76856.18,TRUE,
+257,Whitney,Williamson,kaitlinjones@cooper-williams.com,Sales,Sales Associate,,8,3/11/2018,139913.85,TRUE,287
+258,Pamela,Gray,dramirez@vega.com,Marketing,Marketing Manager,,5,5/8/2025,75862.88,TRUE,121
+259,Laura,Munoz,susanholmes@fitzgerald.com,Logistics,Warehouse Associate,32,3,1/23/2016,133076.6,TRUE,145
+260,Andrew,Smith,turnerjason@owens.info,IT,Support Technician,37,9,8/8/2014,32813.67,TRUE,180
+261,Beth,Perez,simmonstimothy@smith-strickland.biz,Finance,Financial Analyst,24,1,7/15/2020,44659.95,TRUE,
+262,Randy,Anderson,evanflores@lopez-lynch.com,Operations,Operations Manager,3,5,12/26/2022,127268.37,TRUE,62
+263,Emily,Bell,harrisoncrystal@case.com,Customer Service,Team Lead,,6,11/16/2024,107206.29,TRUE,52
+264,Jonathan,James,tonya73@stewart-rubio.net,Finance,Financial Analyst,2,7,5/20/2016,82073.7,FALSE,77
+265,Robert,English,michaelklein@meyer.com,HR,HR Coordinator,6,4,10/12/2022,70190.35,TRUE,173
+266,Leonard,Parks,rconway@beard-morrow.info,Finance,Financial Analyst,15,7,12/10/2017,57457.52,TRUE,186
+267,Brooke,Obrien,amyarmstrong@myers-schwartz.com,Customer Service,CS Manager,,2,7/8/2023,98448.96,TRUE,
+268,William,Sandoval,thomasdavid@carlson.info,Sales,Sales Associate,20,2,5/27/2023,76278.86,TRUE,23
+269,Heather,Gillespie,blove@allen.com,Marketing,Marketing Manager,16,2,9/22/2018,62282.87,TRUE,10
+270,Emily,Dean,danielhale@morgan.com,Finance,Finance Manager,24,6,12/1/2020,89728.45,TRUE,149
+271,Kathleen,Boyer,jonessteven@trujillo-johnson.com,Logistics,Supply Chain Manager,4,2,1/25/2016,88726.51,TRUE,11
+272,Andrew,Richardson,pmaddox@petersen-hansen.com,Operations,Shift Supervisor,,2,1/12/2021,74409.16,TRUE,281
+273,Danielle,Newman,imendoza@may.org,Sales,Account Executive,39,2,11/22/2022,128235.74,TRUE,
+274,Ruth,Perez,uwhite@yates-gaines.com,IT,Support Technician,48,3,8/31/2017,76056.77,TRUE,182
+275,Michael,Deleon,gomeznicole@wong.com,Sales,Sales Manager,26,3,2/17/2019,106792.06,TRUE,146
+276,Kristin,Cherry,dstewart@frey-smith.com,Finance,Controller,35,9,3/6/2024,125973.58,TRUE,85
+277,Albert,Stout,edward81@moss.org,Sales,Senior Sales Rep,17,9,4/30/2015,142635.99,FALSE,
+278,Susan,Thomas,kramernoah@hill.info,Finance,Controller,22,4,2/17/2018,64126.5,TRUE,130
+279,Sheila,Riddle,mitchellwatkins@thomas-edwards.biz,HR,Recruiter,46,8,2/5/2024,44994.73,TRUE,152
+280,Christian,Gutierrez,fvasquez@baker.info,IT,Developer,,5,12/28/2016,73056.06,TRUE,
+281,Christopher,Baldwin,robertgallegos@king-johnson.com,Sales,Sales Associate,,1,7/2/2024,142747.1,TRUE,241
+282,Chloe,Williams,jordan79@neal-graham.com,Finance,Finance Manager,17,3,12/2/2023,123693.9,TRUE,105
+283,Travis,Mccoy,hopkinsmelanie@ray.com,Logistics,Warehouse Associate,,1,2/2/2018,95900.69,TRUE,30
+284,Michael,Miller,cynthia32@smith.info,Marketing,Marketing Manager,43,5,7/25/2025,81940.69,TRUE,
+285,Jessica,Hodges,charlesanderson@harmon-bryan.biz,Sales,Account Executive,,8,1/15/2024,38695.09,TRUE,
+286,Angelica,Douglas,chavezdoris@clark-berger.net,IT,Developer,13,2,11/8/2024,53267.45,TRUE,96
+287,Jacob,Travis,fostertammy@anderson.com,Operations,Store Associate,23,5,7/2/2018,136649.88,TRUE,17
+288,Robert,Torres,carlythomas@wang.com,Marketing,Campaign Lead,,8,9/24/2021,101388.7,TRUE,284
+289,Meghan,Howell,elizabeth59@watkins-long.com,Operations,Store Associate,40,4,4/24/2019,55875.4,TRUE,53
+290,Brad,Powell,griffinjamie@davis.com,Sales,Senior Sales Rep,28,6,7/15/2020,81049.57,TRUE,196
+291,Sharon,Turner,jeffreymolina@cobb.net,HR,Training Specialist,,7,2/18/2017,126549.14,TRUE,238
+292,Jessica,Silva,ginasmith@golden-johnson.com,IT,Data Analyst,,1,7/31/2016,94724.11,TRUE,
+293,Kevin,Roberts,pmedina@tran-oconnell.org,Marketing,Marketing Manager,,3,8/30/2024,72248.59,TRUE,297
+294,George,Casey,fhale@fletcher.com,Operations,Inventory Clerk,,3,7/1/2025,90869.28,TRUE,55
+295,Angela,Cobb,kimberly84@thompson-shepherd.com,HR,Recruiter,10,6,11/15/2024,109233.03,TRUE,278
+296,Wendy,Pennington,amandaharris@brown-smith.biz,Logistics,Supply Chain Manager,8,9,9/2/2022,118168.52,TRUE,271
+297,Johnny,Higgins,cbrown@harrison-rivera.biz,Sales,Sales Manager,,4,4/14/2021,123453.32,TRUE,174
+298,Jonathan,Chavez,charlesmays@delacruz-grant.com,Finance,Accountant,32,4,6/14/2020,132520.24,TRUE,28
+299,Victor,Sutton,pmorris@johnson.info,Finance,Finance Manager,,7,9/7/2023,104020.17,TRUE,73
+300,Pamela,Thomas,mcdanielcynthia@miranda.org,Marketing,Marketing Analyst,22,1,12/15/2017,127439.63,TRUE,18
