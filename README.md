@@ -5,10 +5,8 @@ This repository contains the version 2 of my end-to-end data analytics project f
 Using PostgreSQL and pgAdmin, I built a structured retail database and wrote SQL queries to calculate RFM scores. These scores group customers into five distinct categories: Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost. I then connected the database to Power BI to create interactive dashboards that visualize these insights for clear business decision-making.
 
 ## Dashboard Preview
-<img width="1343" height="755" alt="image" src="https://github.com/user-attachments/assets/8b7360a0-7dba-49b4-b681-c284923a4393" />
-<img width="1343" height="755" alt="image" src="https://github.com/user-attachments/assets/a82384e5-52c2-47b4-98f1-7835731f51eb" />
-
-
+<img width="1342" height="755" alt="image" src="https://github.com/user-attachments/assets/2a4b01ce-fc88-4c96-8bc6-52d05a2fb983" />
+<img width="1343" height="753" alt="image" src="https://github.com/user-attachments/assets/679861e9-12e4-4127-8729-c9d6694b1e4d" />
 
 
 
