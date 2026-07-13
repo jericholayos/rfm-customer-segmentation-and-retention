@@ -7,7 +7,7 @@ Using PostgreSQL and pgAdmin, I built a structured retail database and wrote SQL
 ## Dashboard Preview
 <img width="1437" height="807" alt="image" src="https://github.com/user-attachments/assets/20faa588-61a2-4cf5-b952-40f4dcf1d73e" />
 
-<img width="1436" height="806" alt="image" src="https://github.com/user-attachments/assets/4e527382-eaf4-4b6b-a4c4-33e8689f1b38" />
+<img width="1436" height="807" alt="image" src="https://github.com/user-attachments/assets/6c6da66c-130e-44a4-a9b1-51525e0ecc29" />
 
 
 
