@@ -1,7 +1,5 @@
 # RFM Customer Segmentation & Retention Analysis
 
-## Project Overview
-
 This project is an end-to-end customer analytics solution that applies **RFM (Recency, Frequency, Monetary)** analysis to identify high-value customers, detect churn risk, and support customer retention strategies.
 
 Using PostgreSQL, I built a structured retail database and developed SQL queries with window functions and CTEs to calculate RFM metrics and segment 4,434 customers into five behavioral groups: Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost. The results were connected to Power BI to create an interactive executive dashboard for customer and revenue analysis.
