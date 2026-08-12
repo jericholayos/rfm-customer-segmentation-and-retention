@@ -1,33 +1,35 @@
+# RFM Customer Segmentation & Retention Analysis
+
 ## Project Overview
 
-This repository contains the version 2 of my end-to-end data analytics project focused on Customer RFM (Recency, Frequency, Monetary) Segmentation and Retention Intelligence. The goal of this project is to analyze customer purchasing behavior, identify high-value shoppers, and highlight revenue at risk due to customer churn.
+This project is an end-to-end customer analytics solution that applies **RFM (Recency, Frequency, Monetary)** analysis to identify high-value customers, detect churn risk, and support customer retention strategies.
 
-Using PostgreSQL and pgAdmin, I built a structured retail database and wrote SQL queries to calculate RFM scores. These scores group customers into five distinct categories: Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost. I then connected the database to Power BI to create interactive dashboards that visualize these insights for clear business decision-making.
+Using PostgreSQL, I built a structured retail database and developed SQL queries with window functions and CTEs to calculate RFM metrics and segment 4,434 customers into five behavioral groups: Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost. The results were connected to Power BI to create an interactive executive dashboard for customer and revenue analysis.
+
 
 ## Dashboard Preview
 
 <img width="1357" height="807" alt="image" src="https://github.com/user-attachments/assets/4658fe21-fd52-44f9-9992-e9e506914bd0" />
 
-<img width="1439" height="802" alt="image" src="https://github.com/user-attachments/assets/dcfc884d-0a3a-4976-b3df-63ca52386d81" />
+## Tools & Technologies
 
-<img width="1437" height="802" alt="image" src="https://github.com/user-attachments/assets/fbe25fd2-daf3-4374-8621-2523da58f2a8" />
+- **Database:** PostgreSQL, pgAdmin
+- **Visualization:** Power BI
+- **Language:** SQL (DDL, CTEs, Window Functions, Aggregations)
 
+## Key Features
 
+- **RFM Scoring:** Calculated Recency, Frequency, and Monetary values using SQL to classify customer behavior.
+- **Customer Segmentation:** Segmented 4,434 customers into five actionable RFM groups for retention analysis.
+- **Revenue Contribution Analysis:** Compared customer share versus revenue share to identify high-value segments.
+- **Churn Risk Intelligence:** Identified **658 At-Risk customers** representing **$42.2M** in revenue at risk.
+- **Interactive Recovery Model:** Built a Power BI What-If parameter to estimate potential revenue recovery based on the number of At-Risk customers targeted.
+- **Customer Prioritization:** Ranked high-value At-Risk customers by lifetime spend to support re-engagement campaigns.
 
+## Business Insights
 
-
-
-
-## Tools and Technologies
-
-* **Database:** PostgreSQL, pgAdmin
-* **Data Visualization:** Power BI
-* **Language:** SQL (DDL, Data Exploration, Window Functions, CTEs)
-
-## Key Features and Analysis
-
-* **RFM Scoring Model:** Developed SQL scripts to calculate how recently a customer bought, how often they buy, and how much they spend.
-* **Customer Segmentation:** Applied logic to categorize customers into actionable tiers. For example, the analysis reveals that Champions make up only 16% of the customer base but generate over 24% of the total revenue.
-* **Retention and Risk Dashboards:** Built a comprehensive Power BI report featuring revenue share by segment, geographic loss concentration, and a breakdown of return rates. The dashboard helps prioritize re-engagement strategies by highlighting the top At Risk customers by lifetime spend.
+- **Lost** customers represent **42%** of the customer base while contributing **26.5%** of total revenue.
+- **Champions** account for only **16%** of customers but generate **24.5%** of revenue, making them the highest-value segment.
+- The **At-Risk** segment contains **658 customers** with approximately **$42.2M** in revenue at risk, highlighting a significant retention opportunity.
 
 
