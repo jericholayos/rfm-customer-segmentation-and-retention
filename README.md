@@ -7,7 +7,7 @@ Using PostgreSQL, I built a structured retail database and developed SQL queries
 
 ## Dashboard Preview
 
-<img width="805" height="804" alt="image" src="https://github.com/user-attachments/assets/4a3c58d7-ff32-416e-bf93-0d492db712b6" />
+<img width="806" height="806" alt="image" src="https://github.com/user-attachments/assets/c46516c2-965d-48d5-9675-0992cdf572f4" />
 
 
 ## Tools & Technologies
