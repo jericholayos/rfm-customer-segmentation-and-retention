@@ -37,7 +37,7 @@ SELECT
 	TO_CHAR(DATE_TRUNC('Month', order_date)::DATE, 'YYYY-MM') AS months,
 	SUM(line_revenue) AS current_revenue
 FROM fact_orders o
-LEFT JOIN fact_order_items oi 
+INNER JOIN fact_order_items oi 
 	ON o.order_id = oi.order_id
 WHERE o.status = 'Delivered'
 GROUP BY 1
@@ -112,8 +112,8 @@ WITH CTE AS (
 SELECT
 	ds.store_name,
 	dr.region_name,
-	SUM(DISTINCT oi.line_revenue) AS total_revenue,
-	RANK() OVER(PARTITION BY region_name ORDER BY SUM(DISTINCT oi.line_revenue) DESC) AS rnk	
+	SUM(oi.line_revenue) AS total_revenue,
+	RANK() OVER(PARTITION BY region_name ORDER BY SUM(oi.line_revenue) DESC) AS rnk	
 FROM fact_orders o
 INNER JOIN fact_order_items oi 
 	ON oi.order_id = o.order_id
@@ -141,6 +141,7 @@ SELECT
 FROM fact_order_items oi
 INNER JOIN fact_orders o
 	ON oi.order_id = o.order_id
+WHERE o.status = 'Delivered'
 GROUP BY 1
 )
 SELECT
@@ -149,17 +150,67 @@ SELECT
 FROM cte
 ORDER BY 1;
 
+-- Profit Margin by Tier
+SELECT
+	CASE
+		WHEN discount_pct = 0 THEN '0%'
+		WHEN discount_pct <= 10 THEN '1-10%'
+		WHEN discount_pct <= 20 THEN '11-20%'
+		ELSE '21+%'
+	END AS discount_segment,
+	COUNT(DISTINCT o.order_id) AS number_of_orders,	
+	ROUND(SUM(oi.line_revenue) / COUNT(DISTINCT o.order_id), 2) AS avg_order_value,
+	SUM( oi.line_profit) AS total_profit,
+	ROUND(SUM(oi.line_profit) / SUM(oi.line_revenue) * 100, 2) AS profit_margin
+FROM fact_orders o
+INNER JOIN fact_order_items oi
+	ON oi.order_id = o.order_id
+GROUP BY 1;
 
 
 
 
+WITH metrics AS (
+SELECT
+	store_name,
+	region_name,
+	SUM(oi.line_revenue) AS total_revenue,
+	SUM(oi.line_profit) AS total_profit,
+	ROUND(SUM(oi.line_profit) / SUM(oi.line_revenue) * 100, 2) AS profit_margin,
+	COUNT(DISTINCT o.order_id) AS number_of_orders,
+	ROUND(SUM(oi.line_revenue) / COUNT(DISTINCT o.order_id), 2) AS avg_order_value
+FROM fact_orders o
+INNER JOIN fact_order_items oi 
+	ON oi.order_id = o.order_id
+INNER JOIN dim_regions r
+	ON r.region_id = o.region_id
+INNER JOIN dim_stores s
+	ON s.store_id = o.store_id
+GROUP BY 1, 2
+),
+region_rank AS (
+SELECT 
+	*,
+	ROW_NUMBER() OVER(PARTITION BY region_name ORDER BY total_revenue DESC) AS rn
+FROM metrics
+)
+SELECT
+	store_name,
+	region_name,
+	total_revenue,
+	total_profit,
+	profit_margin,
+	number_of_orders,
+	avg_order_value,
+	CASE
+		WHEN rn = 1 THEN 'Top Performer'
+		WHEN rn <= 3 THEN 'Strong'
+		ELSE 'Average'
+	END AS performance_label
+FROM region_rank
+ORDER BY 2, 3 DESC
 
-
-
-
-
-
-
+	
 
 
 
