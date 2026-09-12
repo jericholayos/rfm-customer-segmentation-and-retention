@@ -18,12 +18,12 @@ Using PostgreSQL, I built a structured retail database and developed SQL queries
 
 ## Key Features
 
-- **RFM Scoring:** Calculated Recency, Frequency, and Monetary values using SQL to classify customer behavior.
-- **Customer Segmentation:** Segmented 4,434 customers into five actionable RFM groups for retention analysis.
-- **Revenue Contribution Analysis:** Compared customer share versus revenue share to identify high-value segments.
-- **Churn Risk Intelligence:** Identified **658 At-Risk customers** representing **$42.2M** in revenue at risk.
-- **Interactive Recovery Model:** Built a Power BI What-If parameter to estimate potential revenue recovery based on the number of At-Risk customers targeted.
-- **Customer Prioritization:** Ranked high-value At-Risk customers by lifetime spend to support re-engagement campaigns.
+* **RFM Scoring:** Used SQL to calculate Recency, Frequency, and Monetary scores for each customer.
+* **Customer Segmentation:** Grouped 4,434 customers into five RFM segments.
+* **Revenue Analysis:** Compared each customer segment's size and revenue contribution.
+* **At-Risk Customers:** Found 658 At-Risk customers with $42.2M in total revenue.
+* **Recovery Estimate:** Created a Power BI What-If parameter to estimate how much revenue could be recovered by targeting At-Risk customers.
+* **Customer Ranking:** Ranked At-Risk customers by total spending to help identify who to target first.
 
 ## Business Insights
 
